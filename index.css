@@ -1,0 +1,138 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0px; 
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 132px;
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.forgotten{
+color: #9cb4d8;
+font-size: 12px;
+text-decoration: none;
+}
+.submit-button{
+ color: #fff;
+ background: #4267b2;
+ border-color: #29487d;
+ height: 20px;
+ cursor: pointer;
+
+}
+.submit-button:hover{
+    background-color: #9cb4d8;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+   
+}
+.right-section{
+    width: 39%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#c3c5cc);
+    width: 100%;
+    height: 500px;
+}
+.image{
+    width: 581px;
+}
+.para{
+font-weight: bold;
+font-size: 21px;
+color: #03032b;
+}
+.r-heading{
+color: #171616;;
+}
+.r-para{
+    font-weight: 3px;
+}
+.check-mob{
+    margin-top: 10px;
+    width: 330px;
+    height: 22px;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: #fbf8f8;
+    border-block-color: azure;
+    font-size: 14px;
+    
+  }
+ .check-first{
+    margin-top: 10px;
+    width: 160px;
+    height: 22px;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: #fbf8f8;
+    border-block-color: azure;
+    font-size: 14px;
+    
+  }
+  .bir{
+      font-size: 13px;
+      color: rgb(90, 87, 87);
+      font-weight: bold;
+      margin-bottom: -1px;
+  }
+  .que{
+    height: 17px;
+    margin-top: 12px;
+    margin-bottom: -2px;
+    cursor: pointer;
+  }
+  .gen{
+    font-size: 13px;
+    color: rgb(90, 87, 87);
+    font-weight: bold;
+    margin-bottom: -1px;
+    margin-top: 11px;
+}
+.paragraph{
+    font-size: small;
+}
+.submit{
+    color: white;
+    background-color: green;
+    font-weight: bold;
+    border-style: unset;
+    border-radius: 3px;
+    width: 167px;
+    height: 30px;
+  }
+
+  
+ 
+  
+ 
